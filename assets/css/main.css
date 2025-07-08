@@ -2686,3 +2686,10 @@ input, select, textarea {
 			}
 
 	}
+.sidebar-icon {
+    width: 275px;  
+    height: 165px;  
+    margin-right: 10px;
+    vertical-align: middle;
+  border: solid 2px;
+}
