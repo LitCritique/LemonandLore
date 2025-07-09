@@ -8,7 +8,7 @@
 <html lang="en-us">
 
 <head>
-  <title>About</title>
+  <title>Recipe Index</title>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <link rel="stylesheet" href="assets/css/main.css" />
@@ -62,73 +62,152 @@
       <div class="container">
         <div id="content">
 
-          <!-- Content -->
-          <article>
-            <h2>Who am I?</h2>
-
-            <!-- About Me Images Here -->
-            <figure style="float: right; margin: 0 0 20px 20px; max-width: 300px;">
-              <img src="https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/485148603_10100830526276239_391666781802365191_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hB6lWy7n_pIQ7kNvwGTTJMv&_nc_oc=AdlZW1nFRrC7_WPZEJlYdUwTHM_xg7oQRp6Oa4FAyeqZPdDiTAiynp6MCP6uYeq-9O2bJwfeg4NGZI_K00Zqz0By&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=SD2aawRI3IjsKc8jLPJRDg&oh=00_AfQJOgzMiYLPaEHRal-Z_V6h4Hl3aJZbczfoZIqYntVwfg&oe=68721F14" style="width: 100%; border-radius: 5px;" alt="Jenny in her garden" />
-              <figcaption style="text-align: center; font-style: italic; margin-top: 0px; font-size: 0.9em;">Just me.</figcaption>
-            </figure>
-            <figure style="float: right; margin: 0 0 20px 20px; max-width: 300px;">
-              <img src="https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/504896743_10100879387847259_3630412131916584521_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=njaGQ6XsRYQQ7kNvwGlT0w4&_nc_oc=AdkFvJ2oz9pN3k-BQgNo-2_QzbNvTl0vn1GSL8n_WUqtZmAKv7jO_ITYSz0-fFaaMML8mN9FQh8pOgYY8qkkbO4Y&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Yz-PttPFYAxcKiDR9rFEoA&oh=00_AfSTh_exsAvJShgczd0ePDidOzI-bqkCSUkZDW3VoZ_VjQ&oe=68722056" style="width: 100%; border-radius: 5px;" alt="Jenny's Kitchen" />
-              <figcaption style="text-align: center; font-style: italic; margin-top: 0px; font-size: 0.9em;">The kitchen where it happens</figcaption>
-            </figure>
-
-            <p>Hi, I’m Jenny! I’m a teacher living in Northern Virginia with my husband, our two kiddos, my in-laws, and a parade of fuzzy creatures. While I've bounced around the east coast my entire life, my roots stretch deep into New England and Southern Appalachia: Locations where canning is more than just a kitchen task: it's a way of life!
-              My grandmother taught me how to can vegetables to get us through the winter, and a close family friend from South Appalachia showed me the care and intention that goes into preserving food. Their lessons still shape how I work in the kitchen today and how I understand the stories that surround the foods we love.
-            <p>I’ll be honest: I don’t always eat what I make. I have sensory issues with a lot of foods (one of my many quirks). But I love the process! I love the rhythm of it, the purpose, and the joy of giving something homemade to someone I care about. My shelves are full, and so are the hands of my family, neighbors, and coworkers.</p>
-
-            <p>I started Lemon and Lore because I love being in my garden, preserving what I grow, and sharing that process with others. If you’re new to canning, I hope this site helps you feel brave enough to start. You don’t need fancy tools or a perfect setup. You just need a little guidance and the willingness to try. For me, canning is about connection: to the land, to the past, and to each other. I’m so glad you’re here!</p>
-
-            <h3>The Principles Behind Lemon and Lore</h3>
-            <div style="border: 2px solid #ccc; padding: 20px; border-radius: 5px; margin: 20px 0;">
-            
-              <p>At Lemon and Lore, canning is not just a method; it's a memory, a mindset, and a way of moving through the seasons with intention. Every jar holds a story: of the hands that grew the fruit, the family recipes passed down, and the quiet satisfaction of preserving something good.
-                Canning doesn't have to be complicated, expensive, or intimidating. My approach is simple, flexible, and rooted in tradition—with room for real life. Here's what guides me in the kitchen and in the stories I share: </p>
- <ul>
-                <li>
-                  <h4>Preserve with Purpose</h4> Canning is a way to slow down, savor, and steward what we have. Don't just think about the food, but focus on care, creativity, and connection with the process.
-                </li>
-                <li>
-                  <h4>Start with What You Have</h4> You don’t need a perfect setup or a pantry full of gear. Use the tools you already own, the produce that’s available to you, and build from there.
-                </li>
-                <li>
-                  <h4>Use What's in Season</h4> Seasonal produce is fresher, more affordable, and often more flavorful. Whether it’s tomatoes in August or apples in October, let the calendar guide your jars.
-                </li>
-                <li>
-                  <h4>Honor the Story</h4> Every recipe has roots. Appreciate the history, heritage, and personal moments that make each preserve meaningful.
-                </li>
-                <li>
-                  <h4>Share What You Make</h4> Canning is about connection. Giving homemade preserves to neighbors, coworkers, and family is a way to share not just food, but care and effort.
-                </li>
-                <li>
-                  <h4>Safety First, Always</h4> Follow tested recipes and safe canning practices—no shortcuts. Preserving food is powerful, but it has to be done right.
-                </li>
-                <li>
-                  <h4>Teach with Clarity</h4> Whether you're new to canning or seasoned with steam burns and sticky counters, I aim to make the process approachable, safe, and satisfying.
-                </li>
-                <li>
-                  <h4>Progress Over Perfection</h4> Not every jar will be pretty. Not every batch will be flawless. That’s okay. Every time you can, you learn something. Don't give up. Learn.
-                </li>
-                <li>
-                  <h4>Celebrate the Simple</h4> There’s beauty in the basics. A well-sealed jar, a handwritten label, a shelf lined with color—these are small joys worth honoring.
-                </li>
-               
-              </ul>
-          </article>
-            </div>
-	      </div>
-
-          
-
- 
-      </div>
+         <!-- Content -->
+<article>
+  <h2>Recipe Index</h2>
+  <h3> Recipes I've Tried</h3>
+  
+  <!-- Recipe Grid -->
+  <div class="row">
+    <!-- Recipe Card 1 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="https://live.staticflickr.com/65535/54643993373_2216ddce59.jpg" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54643993373_2216ddce59.jpg" alt="Recipe 1" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Green Beans</h4>
+      </a>
     </div>
+    
+    <!-- Recipe Card 2 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54643992994_0cb7d01a72.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Four Citrus Marmalade</h4>
+      </a>
+    </div>
+    
+    <!-- Recipe Card 3 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-3.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54643771081_ae83c18397.jpg" alt="Recipe 3" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Spiced Beets</h4>
+      </a>
+    </div>
+    <!-- Recipe Card 4 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54644003654_34f95ab397.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Grape Jelly</h4>
+      </a>
+    </div>
+    <!-- Recipe Card 5 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54644018793_49ee9bafb6.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Dill Pickles</h4>
+      </a>
+    </div>
+     <!-- Recipe Card 6 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54642953517_c560b0783b.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Apple Butter</h4>
+      </a>
+    </div>
+  </div>
+  <br>
+  <h3> Recipes I Have on My Radar</h3>
+  
+  <!-- Recipe Grid -->
+  <div class="row">
+    <!-- Recipe Card 1 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="https://live.staticflickr.com/65535/54643993373_2216ddce59.jpg" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54643175702_d3ef910759.jpg" alt="Recipe 1" style="width: 100%; height: auto"/>
+        <h4 style="text-align: center; margin-top: 1em;">Apple Slices</h4>
+      </a>
+    </div>
+    
+    <!-- Recipe Card 2 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54643175717_f1f34a392e.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Apricot Butter</h4>
+      </a>
+    </div>
+     <!-- Recipe Card 3 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54644333900_f20f946e8f.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Cherry Pie Filling</h4>
+      </a>
+    </div>
+     <!-- Recipe Card 4 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54643175557_510cccc977.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Diced Tomatoes</h4>
+      </a>
+    </div>
+     <!-- Recipe Card 5 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54644257078_3db8264f59.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Fresh Salsa</h4>
+      </a>
+    </div>
+     <!-- Recipe Card 6 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54644257023_6fe8dfc25f.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Homemade Ketchup</h4>
+      </a>
+    </div>
+       <!-- Recipe Card 7 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54644257048_65c92e7ab1.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Jellied Cranberry Sauce</h4>
+      </a>
+    </div>
+     <!-- Recipe Card 8 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54643175742_8d23c171a4.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Pear Halves</h4>
+      </a>
+    </div>
+     <!-- Recipe Card 9 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54643175677_ed2ba46675.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Pickled Artichoke</h4>
+      </a>
+    </div>
+    <!-- Recipe Card 10 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54644333935_131cf2ed10.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Strawberry Lemonade Concentrate</h4>
+      </a>
+    </div>
+     <!-- Recipe Card 11 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54644257013_5a0667d686.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Strawberry Lemon Jam</h4>
+      </a>
+    </div>
+     <!-- Recipe Card 12 -->
+    <div class="col-4 col-6-medium col-12-small">
+      <a href="recipe-page-2.html" class="recipe-card">
+        <img src="https://live.staticflickr.com/65535/54644244404_b0242ca052.jpg" alt="Recipe 2" style="width: 100%; height: auto;"/>
+        <h4 style="text-align: center; margin-top: 1em;">Tomato Sauce</h4>
+      </a>
+    </div>
+</article>
 
     <!-- Footer -->
-    <!-- Footer -->
+ 
     <div id="footer-wrapper">
       <footer id="footer" class="container">
         <div class="row">
