@@ -1,0 +1,223 @@
+<!DOCTYPE HTML>
+<!--
+	Verti by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="en-us">
+
+<head>
+  <title>About</title>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+
+<body class="is-preload no-sidebar">
+  <div id="page-wrapper">
+
+    <!-- Header -->
+    <div id="header-wrapper">
+      <header id="header" class="container">
+
+        <!-- Logo -->
+        <div id="logo">
+          <h1><a href="index.html">Lemon & Lore</a></h1>
+          <span>preserving with Jenny</span>
+        </div>
+
+        <!-- Nav -->
+        <nav id="nav">
+          <ul>
+            <li><a href="index.html">Welcome</a></li>
+            <li>
+              <a href="#">Recipe Log</a>
+              <ul>
+                <li><a href="recipe_index.html">Recipe Index</a></li>
+                <li><a href="#">Magna phasellus</a></li>
+                <li>
+                  <a href="#">Phasellus consequat</a>
+                  <ul>
+                    <li><a href="#">Lorem ipsum dolor</a></li>
+                    <li><a href="#">Phasellus consequat</a></li>
+                    <li><a href="#">Magna phasellus</a></li>
+                    <li><a href="#">Etiam dolore nisl</a></li>
+                  </ul>
+                </li>
+                <li><a href="#">Veroeros feugiat</a></li>
+              </ul>
+            </li>
+            <li class="current"><a href="seasonal-guide.html">Seasonal Guide</a></li>
+            <li><a href="tips-and-tools.html">Tips and Tools</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </nav>
+
+      </header>
+    </div>
+
+    <!-- Main -->
+    <div id="main-wrapper">
+      <div class="container">
+        <div id="content">
+
+          <!-- Content -->
+          <article>
+            <h2>Who am I?</h2>
+
+            <!-- About Me Images Here -->
+            <figure style="float: right; margin: 0 0 20px 20px; max-width: 300px;">
+              <img src="https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/485148603_10100830526276239_391666781802365191_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hB6lWy7n_pIQ7kNvwGTTJMv&_nc_oc=AdlZW1nFRrC7_WPZEJlYdUwTHM_xg7oQRp6Oa4FAyeqZPdDiTAiynp6MCP6uYeq-9O2bJwfeg4NGZI_K00Zqz0By&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=SD2aawRI3IjsKc8jLPJRDg&oh=00_AfQJOgzMiYLPaEHRal-Z_V6h4Hl3aJZbczfoZIqYntVwfg&oe=68721F14" style="width: 100%; border-radius: 5px;" alt="Jenny in her garden" />
+              <figcaption style="text-align: center; font-style: italic; margin-top: 0px; font-size: 0.9em;">Just me.</figcaption>
+            </figure>
+            <figure style="float: right; margin: 0 0 20px 20px; max-width: 300px;">
+              <img src="https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/504896743_10100879387847259_3630412131916584521_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=njaGQ6XsRYQQ7kNvwGlT0w4&_nc_oc=AdkFvJ2oz9pN3k-BQgNo-2_QzbNvTl0vn1GSL8n_WUqtZmAKv7jO_ITYSz0-fFaaMML8mN9FQh8pOgYY8qkkbO4Y&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Yz-PttPFYAxcKiDR9rFEoA&oh=00_AfSTh_exsAvJShgczd0ePDidOzI-bqkCSUkZDW3VoZ_VjQ&oe=68722056" style="width: 100%; border-radius: 5px;" alt="Jenny's Kitchen" />
+              <figcaption style="text-align: center; font-style: italic; margin-top: 0px; font-size: 0.9em;">The kitchen where it happens</figcaption>
+            </figure>
+
+            <p>Hi, I’m Jenny! I’m a teacher living in Northern Virginia with my husband, our two kiddos, my in-laws, and a parade of fuzzy creatures. While I've bounced around the east coast my entire life, my roots stretch deep into New England and Southern Appalachia: Locations where canning is more than just a kitchen task: it's a way of life!
+              My grandmother taught me how to can vegetables to get us through the winter, and a close family friend from South Appalachia showed me the care and intention that goes into preserving food. Their lessons still shape how I work in the kitchen today and how I understand the stories that surround the foods we love.
+            <p>I’ll be honest: I don’t always eat what I make. I have sensory issues with a lot of foods (one of my many quirks). But I love the process! I love the rhythm of it, the purpose, and the joy of giving something homemade to someone I care about. My shelves are full, and so are the hands of my family, neighbors, and coworkers.</p>
+
+            <p>I started Lemon and Lore because I love being in my garden, preserving what I grow, and sharing that process with others. If you’re new to canning, I hope this site helps you feel brave enough to start. You don’t need fancy tools or a perfect setup. You just need a little guidance and the willingness to try. For me, canning is about connection: to the land, to the past, and to each other. I’m so glad you’re here!</p>
+
+            <h3>The Principles Behind Lemon and Lore</h3>
+            <div style="border: 2px solid #ccc; padding: 20px; border-radius: 5px; margin: 20px 0;">
+            
+              <p>At Lemon and Lore, canning is not just a method; it's a memory, a mindset, and a way of moving through the seasons with intention. Every jar holds a story: of the hands that grew the fruit, the family recipes passed down, and the quiet satisfaction of preserving something good.
+                Canning doesn't have to be complicated, expensive, or intimidating. My approach is simple, flexible, and rooted in tradition—with room for real life. Here's what guides me in the kitchen and in the stories I share: </p>
+ <ul>
+                <li>
+                  <h4>Preserve with Purpose</h4> Canning is a way to slow down, savor, and steward what we have. Don't just think about the food, but focus on care, creativity, and connection with the process.
+                </li>
+                <li>
+                  <h4>Start with What You Have</h4> You don’t need a perfect setup or a pantry full of gear. Use the tools you already own, the produce that’s available to you, and build from there.
+                </li>
+                <li>
+                  <h4>Use What's in Season</h4> Seasonal produce is fresher, more affordable, and often more flavorful. Whether it’s tomatoes in August or apples in October, let the calendar guide your jars.
+                </li>
+                <li>
+                  <h4>Honor the Story</h4> Every recipe has roots. Appreciate the history, heritage, and personal moments that make each preserve meaningful.
+                </li>
+                <li>
+                  <h4>Share What You Make</h4> Canning is about connection. Giving homemade preserves to neighbors, coworkers, and family is a way to share not just food, but care and effort.
+                </li>
+                <li>
+                  <h4>Safety First, Always</h4> Follow tested recipes and safe canning practices—no shortcuts. Preserving food is powerful, but it has to be done right.
+                </li>
+                <li>
+                  <h4>Teach with Clarity</h4> Whether you're new to canning or seasoned with steam burns and sticky counters, I aim to make the process approachable, safe, and satisfying.
+                </li>
+                <li>
+                  <h4>Progress Over Perfection</h4> Not every jar will be pretty. Not every batch will be flawless. That’s okay. Every time you can, you learn something. Don't give up. Learn.
+                </li>
+                <li>
+                  <h4>Celebrate the Simple</h4> There’s beauty in the basics. A well-sealed jar, a handwritten label, a shelf lined with color—these are small joys worth honoring.
+                </li>
+               
+              </ul>
+          </article>
+            </div>
+	      </div>
+
+          
+
+ 
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <!-- Footer -->
+    <div id="footer-wrapper">
+      <footer id="footer" class="container">
+        <div class="row">
+          <div class="col-3 col-6-medium col-12-small">
+
+            <!-- Links -->
+            <section class="widget links">
+              <h3>Government & University-Based Resources</h3>
+              <ul class="style2">
+                <li><a href="https://nchfp.uga.edu/">National Center for Home Food Preservation</a></li>
+
+                <li><a href="https://extension.psu.edu/food-safety-and-quality/home-food-preservation-and-safety">PennState Home Food Preservation and Safety</a></li>
+                <li><a href="https://health.extension.wisc.edu/food-safety-and-preservation/">University of Wisconsin Food Safety and Preservation</a></li>
+                <li><a href="https://nchfp.uga.edu/resources/category/usda-guide">USDA Complete Guide to Home Canning</a></li>
+                <li><a href="https://extension.wvu.edu/food-health/home-food-preservation/canning">West Virginia University Canning Resources</a></li>
+              </ul>
+            </section>
+
+          </div>
+          <div class="col-3 col-6-medium col-12-small">
+
+            <!-- Links -->
+            <section class="widget links">
+              <h3>Trusted Private Sector & Brand Resources</h3>
+              <ul class="style2">
+                <li><a href="https://www.ballmasonjars.com/canning-and-preserving-101.html">Ball Mason Jar Canning 101</a></li>
+                <li><a href="https://www.bernardin.ca/en/stepbystep.htm">Bernardin Home Canning Step-by-Step</a></li>
+                <li><a href="https://canningamerica.com/canning-faqs">Canning Across America</a></li>
+                <li><a href="https://www.mrswages.com/canning/">Mrs. Wages Canning 101</a></li>
+                <li><a href="https://pomonapectin.com/category/recipes/">Pomona's Universal Pectin Recipes</a></li>
+
+              </ul>
+            </section>
+
+          </div>
+          <div class="col-3 col-6-medium col-12-small">
+
+            <!-- Links -->
+            <section class="widget links">
+              <h3>Niche & Prepper-Oriented Resources</h3>
+              <ul class="style2">
+                <li><a href="https://uspreppers.com/beginning-canning-for-preppers/">Beginning Canning for Preppers</a></li>
+                <li><a href="https://www.pickyourown.org/allaboutcanning.htm#google_vignette">Can, Freeze, Dry, and Preserve Anything</a></li>
+                <li><a href="https://www.pickyourown.org/preppers_canning.php">Canning and Food Preservation for Preppers</a></li>
+
+                <li><a href="https://sosfoodlab.com/canning-foods-and-dehydrating-foods-safety-dos-and-donts/">SOS Food Lab</a></li>
+                <li><a href="https://www.weloveprepping.com/blog/canning-for-preppers-essential-guide/">We Love Prepping</a></li>
+              </ul>
+            </section>
+
+          </div>
+          <div class="col-3 col-6-medium col-12-small">
+
+            <!-- Contact -->
+            <section class="widget contact last">
+              <h3>Reach Out</h3>
+              <ul>
+                <li><a href="https://www.facebook.com/jen.simpson.33" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+                <li><a href="https://www.instagram.com/teatimewhimsies/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="https://pin.it/7snH5W5ZJ" class="icon brands fa-pinterest"><span class="label">Pinterest</span></a></li>
+                <li><a href="mailto:jenma.simpson@gmail.com" class="icon brands fa-envelope"><span class="label">Email</span></a></li>
+              </ul>
+
+            </section>
+
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <div id="copyright">
+              <ul class="menu">
+                <li>&copy; Lemons & Lore. All rights reserved</li>
+                <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <!-- Scripts -->
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </div>
+    
+  </body>
+
+</html>
