@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML>
 <!--
 	Verti by HTML5 UP
@@ -58,12 +57,12 @@
                     <div class="col-4 col-12-medium">
                         <div id="sidebar">
                             <section>
-                                <img src="https://images.unsplash.com/photo-1634021607990-e3c98ff1e76d?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Peaches hanging on a tree" class="story-image"/>
-                                <h3>Peachlore</h3>
-                              <p>Peaches have been around the block. Their Latin name Prunus persica means “Persian apple.” But fun twist, they’re actually native to China, where folks were enjoying them wild as far back as 10th century BC! From there, this fruit hit the road: Persians brought it west to Rome in the early 200s BC, and Alexander the Great made sure Europe got a taste during his explorations. Fast-forward a few centuries, and Spanish explorers tossed some peaches into their bags for the Americas in the 1500s.</p>
-                                <p>Then came the Napoleonic Wars, and suddenly canned peaches started pulling double duty, feeding troops and sticking around as a wartime staple. These days, canned peaches are still shelf royalty. In Northern China, people believe they bring healing, luck, and even a hint of immortality. Which, honestly, feels like a pretty good reason to keep a few jars in the pantry!</p>
-                              <p>Globally, there are more than 2,000 peach varieties, with about 300 grown right here in the U.S. They’re part of the rose family, closely related to almonds, and only one gene separates a peach from its smooth-skinned cousin, the nectarine.</p>
-                              <p>Beyond their charm and flavor, peaches are no slouch in the nutritional department. They’re loaded with vitamins A, C, and E, deliver fiber and potassium, and bring antioxidants to the table. So while they taste like sunshine in a can, they’re also a powerhouse in a jar.</P
+                                <img src="https://images.unsplash.com/photo-1472476443507-c7a5948772fc?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Ketchup in a Bowl" class="story-image"/>
+                                <h3>Lore of Ketchup</h3>
+                              <p>Ketchup’s story is way older, and way weirder, than most people realize. Long before it became the go-to burger buddy, it started out as a fermented fish sauce in ancient China. oh yeah...you read that right. The original <em>kôe-chiap</em> was a briny blend of pickled fish and spices, popular around 300 BC and valued for its bold flavor and long shelf life. The word “ketchup” likely comes from the Hokkien Chinese term for “fish sauce,” though some say it’s rooted in Malay or even Arabic influences. </p>
+                                <p>British traders got a taste of it in Southeast Asia in the 1600s and brought it home, where they, of course, promptly reinvented it. By the 1700s, ketchup recipes in England featured everything from mushrooms and walnuts to oysters and plums. The trusty tomato wasn't even on the radar yet!</p>
+                              <p>That all changed in 1812 though, when American scientist, James Mease, published the first tomato-based ketchup recipe, calling tomatoes “love apples” for their supposed aphrodisiac powers. But early tomato ketchup spoiled quickly, so producers added preservatives like coal tar and sodium benzoate. There was a brief moment in the 1830s when ketchup was sold as medicine by Dr. John Cook Bennett who claimed it could cure indigestion and turned it into tomato pills. Finally, in 1876, our own American entrepreneur, Henry Heinz, stepped in with a cleaner, safer version. His glass-bottled ketchup was a game-changer, so he co-founded the HJ Heinz Company of Pitssburgh, Pennsylvania and his ketchup is still the gold standard to this day.</p>
+                              <p>Today, ketchup is a global food staple, found in 97% of American homes thanks to its sweet and tangy taste and its endlessly adaptable uses.</P
                             </section>
 
                             <section>
@@ -81,20 +80,21 @@
                     <div class="col-8 col-12-medium imp-medium">
                         <div id="content">
                             <article>
-                                <h2>Canned Peaches</h2>
+                                <h2>Homemade Ketchup</h2>
                                 
                                 <div class="recipe-meta">
-                                    <div class="recipe-meta-item">⏱️ Prep Time: 30 mins</div>
-                                    <div class="recipe-meta-item">🔥 Processing Time: 30 mins</div>
-                                    <div class="recipe-meta-item">🏺 Yield: 7 quarts </div>
-                                    <div class="recipe-meta-item">📅 Season: May - Late Summer</div>
+                                    <div class="recipe-meta-item">⏱️ Prep Time: 1 hour</div>
+                                    <div class="recipe-meta-item">🔥 Processing Time: 2 hours</div>
+                                    <div class="recipe-meta-item">🏺 Yield: 16 half pints </div>
+                                    <div class="recipe-meta-item">📅 Season: May - October</div>
                                 </div>
 
                                 <section class="recipe-section">
                                     <h3>Equipment Needed</h3>
                                     <ul class="ingredient-list">
-                                                                                <li>7 quart jars with rings and new lids, sterilized</li>
-                                        <li>Water bath canner</li>
+                                                                                <li>1 sauce maker</li>
+                                        <li>1 blender</li>
+                                       <li>1 water-bath canning pot</li>
                                         <li>Jar lifter and funnel</li>
                                     </ul>
                                 </section>
@@ -102,37 +102,47 @@
                                 <section class="recipe-section">
                                     <h3>Ingredients</h3>
                                     <ul class="ingredient-list">
-                                        <li>17lbs fresh and ripe peaches, preferably freestone (do not use white peaches!)</li>
-                                      <li>2 cups Granulated sugar</li>
-                                      <li>6 cups boiling water</li>
-                                      <li> 6 cups ice water in a pot or large bowl</li>
+                                        <li>2 teaspoons celery seeds</li>
+                                      <li>4 individual whole cloves (no teaspoons or tablespoons--just count them out)</li>
+                                      <li>5 individual whole allspice</li>
+                                      <li> 3 cups vinegar half white and half cider (5% acidity)</li>
+                                       <li>24 lbs tomatoes</li>
+                                      <li>23 cups chopped onions</li>
+                                      <li>1/2 teaspoon black pepper</li>
+                                      <li>1/2 teaspoon cayenne pepper</li>
+                                      <li>2 cups granulated sugar</li>
+                                      <li>1/4 cup canning or pickling salt</li>
+                                      <li>1 teaspoon dried garlic</li>
                                     </ul>
                                 </section>
 
                                 <section class="recipe-section">
                                     <h3>Instructions</h3>
                                     <ol class="step-list">
-                                      <li><b>Sterilize Jars:</b> Make sure the jars and rings are clean and sterile (I sterilize them in the dishwasher an hour before starting). Make sure you have new, un-used lids, for a proper seal.</li>
-                                      <li><b>Fill water bath canner:</b> add enough water to cover the jars by 1-2 inches once they are immersed in the water. Place on the stove and bring the water to a boil, then reduce to a simmer.</li>
-                                      <li><b>Peel Peaches:</b> Fill a separate large pot of water and bring to a high simmer. Add the peaches to the hot water (in batches, if needed), for about 30 seconds. This will help loosen the skins, making them really easy to peel. Remove peaches to an ice water bath, then peel them. The skin should come off really easily. Remove the pit, and cut them into large slices.</li>
-                                      <li><b>Fill jars</b> with peaches as you slice them. You can fill them pretty full, and gently tap the bottle on the counter top to help them settle inside.</li>
-                                      <li><b>Add Simple Syrup:</b> For light syrup, mix 2 cups of sugar with 6 cups of very hot water. Stir well to dissolve the sugar. Pour some of the simple syrup into each jar, leaving 1/2" headspace at the top. Gently tap the jars to release any air bubbles.</li>
-                                      <li><b>Wipe the sides and rims</b> of the jars with a clean rag. Place a clean lid securely on top of each of the jars. Secure with the rings.</li>
-                                      <li><b>Process in Waterbath:</b> Use jar lifters or tongs to gently place the jars in your hot water bath (or use the rack to lower them down, if you have one with handles). Add more water to the canner, if needed, to cover the tops of the jars. Cover with the lid and bring water back to a boil. Once boiling, process the jars for 25 minutes.</li>
-                                      <li><b>Remove and Rest:</b> Place a large towel or dishrag on your countertop. After the 25 minutes is up, turn the burner off (if you have an electric flat top stove, gently move the pot off the burner) remove the lid and allow the jars to rest in the pot for 5 minutes. Then use tongs or jar lifters to move the jars onto the towel to rest.</li>
-                                      <li><b>Check Seals:</b> After a few hours you can check the seals to make sure they all sealed properly before you store them. When you press on the center of the lid it should be sealed down. If you hear or feel it pop back at all, then it didn't seal properly. Also make sure there is still liquid covering the peaches and that the peaches look like a nice bright color. If they didn't seal properly you can refrigerate them and enjoy within a few days, or reprocess in the water bath.</li>
-                                      <li><b>Store:</b> Allow the jars to cool completely before storing them in a cool, dry place for 12-18 months.</li>
-                                      <li><b>If your peaches start to develop a foul odor, become discolored, or if you see signs of mold, these are signs of spoilage and you should discard them.</b></li>
+                                      <li><b>Preheat oven:</b> Turn oven to 425ºF</li>
+                                      <li><b>Make a spice bag:</b> Take cheesecloth and cutting out a square. Add celery seeds, cloves, and all spice on top of the cheese cloth, then tie in a knot or use twine to tie it together. (Some of the celery seeds may fall out, that’s ok!)</li>
+                                      <li><b>In a stainless steel saucepan,</b> add the vinegar and the spice bag. Bring to a boil over high heat, then remove from heat and let it sit for a half hour with the spice bag in it. Then discard the spice bag.</li>
+                                      <li><b>Meanwhile,</b> cut tomatoes in half and core. (For Roma or San Marzano tomatoes, no need to core, just cut in half.) Place tomatoes skin down, with one layer on baking trays and roast tomatoes for 1 hour at 425ºF.</li>
+                                      <li><b>While the tomatoes cook,</b> sauté the onions for 5-10 minutes on medium low heat until soft and translucent.</li>
+                                      <li><b>After the tomatoes finish,</b> use a food mill or sauce maker to remove skins and seeds. *Include all the released tomato juices on the tray as well as roasted tomatoes to food mill ensure proper acidity. Discard the seeds and skins.</li>
+                                      <li><b>Place tomato sauce</b> in a very large stainless steel saucepan. Add onions, sugar, salt, vinegar, cayenne pepper, black pepper, and dried garlic to the saucepan with the tomatoes.</li>
+                                      <li><b>Bring to a boil,</b> then reduce the heat and let it simmer, stirring frequently, until it becomes the desired thickness.</li>
+                                      <li><b>While reducing the liquid,</b> prepare a water bath canner and half pint jars.</li>
+                                      <li><b>Working in small batches,</b> transfer the mixture to the blender and puree until very smooth. Return all the pureed ketchup to the pot.</li>
+                                      <b>Ladle</b> hot ketchup into half pint jars leaving a 1/2 inch of head space. Wipe rim. Center lid on the jar. Screw on the band with until it is finger tip-tight.</li>
+                                  <b>Place jars in canner </b> and ensure the jars have at least one inch of water above the tops of the jars.</li>
+                              <b>Working in small batches,</b> transfer the mixture to the blender and puree until very smooth. Return all the pureed ketchup to the pot.</li>
+                          <li><b>Bring to a boil and process</b> for 15 minutes. Remove lid, turn off heat, wait 5-10 minutes then remove jars. Let cool and store.</b></li>
                                     </ol>
                                 </section>
 
                                 <section class="recipe-section">
                                     <h3>Notes</h3>
                                     <ul class="ingredient-list">
-                                      <li><b>Choose</b> ripe but firm peaches for best results</li>
-                                      <li><b>High Altitude: 3,000-6,000 ft </b>process for 30 min. <b>Above 6,000 ft</b> process for 35 minutes.</li>
-                                      <li><b>Add cinnamon:</b> for a spiced or cinnamon flavor, place one cinnamon stick in the bottom of each jar before adding the peaches.</li>
-                                      <li><b>Add vanilla:</b> for a yummy vanilla flavor, add a vanilla bean pod (slit and seeds removed), to the simple syrup when you heat it. Remove it before pouring liquid on peaches.</li>
+                                      <li><b>Do not</b> change the ratios in the recipe. It has a specific amount of acid to keep it safe for water bath canning.</li>
+                                      
+                                      <li><b>If you end up with slightly more or less yield, </b> don’t worry. Tomatoes vary in water content and this can lead to the yield being a little different.</li>
+                                      <li>
                                       
                                     </ul>
                                 </section>
