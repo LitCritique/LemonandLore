@@ -2893,4 +2893,62 @@ input, select, textarea {
         height: 100%;
         object-fit: cover; /* This ensures images cover the area without distortion */
     }
-</style>
+
+
+/* Process Gallery Specific Fix */
+
+.process-gallery {
+    margin: 1em 0;
+}
+
+.process-gallery .grid {
+    margin: 0;
+    padding: 0;
+}
+
+.process-gallery .row.gtr-50 {
+    display: flex;
+    margin: -10px 0 0 -10px;
+    width: calc(100% + 10px);
+}
+
+.process-gallery .col-6 {
+    width: 50%;
+    padding: 10px 0 0 10px;
+}
+
+.process-gallery .image.fit {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 75%;
+    overflow: hidden;
+    border-radius: 8px;
+    margin: 0;
+}
+
+.process-gallery .image.fit img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+/* Process Gallery Mobile Adjustments */
+@media screen and (max-width: 736px) {
+    .process-gallery .row.gtr-50 {
+        margin: -5px 0 0 -5px;
+        width: calc(100% + 5px);
+    }
+    
+    .process-gallery .col-6 {
+        padding: 5px 0 0 5px;
+    }
+    
+    .process-gallery .image.fit {
+        padding-bottom: 66.67%;
+    }
+}
