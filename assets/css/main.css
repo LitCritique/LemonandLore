@@ -2750,3 +2750,9 @@ input, select, textarea {
             border-radius: 8px;
             margin-bottom: 1em;
         }
+.recipe-section h4 {
+    text-decoration: underline;
+    color: #D93662; /* Matches your existing heading color scheme */
+    font-weight: 800; /* Matches your existing heading style */
+    margin: 1.5em 0 0.5em 0; /* Adds some spacing */
+}
