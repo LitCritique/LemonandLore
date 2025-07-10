@@ -1,1 +1,285 @@
 
+<!DOCTYPE HTML>
+<!--
+	Verti by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="en">
+	
+<head>
+    <title>Lemon & Lore - Fresh Salsa</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+	<body class="is-preload">
+        <!-- Header -->
+        <div id="header-wrapper">
+            <header id="header" class="container">
+                <!-- Logo -->
+                <div id="logo">
+                    <h1><a href="index.html">Lemon & Lore</a></h1>
+                   
+                </div>
+
+                <!-- Nav -->
+        <nav id="nav">
+          <ul>
+            <li><a href="index.html">Welcome</a></li>
+            <li>
+              <a href="#\recipelog.html">Recipe Log</a>
+              <ul>
+                <li><a href="recipe_index.html">Recipe Index</a></li>
+                <li><a href="#">Magna phasellus</a></li>
+                <li>
+                  <a href="canned_peaches.html">Canned Peaches</a>
+                  <ul>
+                    <li><a href="#">Lorem ipsum dolor</a></li>
+                    <li><a href="#">Phasellus consequat</a></li>
+                    <li><a href="#">Magna phasellus</a></li>
+                    <li><a href="#">Etiam dolore nisl</a></li>
+                  </ul>
+                </li>
+                <li><a href="#">Veroeros feugiat</a></li>
+              </ul>
+            </li>
+            <li class="current"><a href="seasonal-guide.html">Seasonal Guide</a></li>
+            <li><a href="tips-and-tools.html">Tips and Tools</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </nav>
+
+      </header>
+    </div>
+        <!-- Main -->
+        <div id="main-wrapper">
+            <div class="container">
+                <div class="row gtr-200">
+                    <!-- Sidebar -->
+                    <div class="col-4 col-12-medium">
+                        <div id="sidebar">
+                            <section>
+                                <img src="https://images.unsplash.com/photo-1713374989663-e5b165462fef?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Fresh Salsa" class="story-image"/>
+                              <h3>Salsalore: Time Traveling Sauce</h3>
+                              <p>Salsa is a cultral crossroads in a bowl. Bright, bold, and endlessly adaptable, salsa has been adding flavor to meals for thousands of years. But its story starts long before it ever met a tortilla chip. The earliest versions of salsa trace back to the Aztecs, Mayans, and Incas, who blended tomatoes, chili peppers, and squash seeds into sauces used to flavor meats like venison, turkey, and fish. These weren’t just dips, though; they were essential parts of the meal, crafted with care and often ground by hand using a molcajete, a traditional stone mortar and pestle.</p>
+                                <p>After the Spanish arrived in the early 1500s, they encountered these spicy, savory sauces and brought new ingredients like garlic and onions into the mix. The word <em>salsa</em>, Spanish for “sauce,"was first officially used in 1571 by priest Alonso de Molina</p>
+                              
+                              <p>Fast forward a few centuries, and salsa began its next chapter in the United States. In the early 20th century, Mexican immigrants brought their culinary traditions north, and by the 1940s, companies like La Victoria were bottling and selling salsa commercially. The real boom came in the 1980s and ’90s, when salsa’s popularity exploded—so much so that by 1991, it had officially outsold ketchup in the U.S. </p>
+                              <p> Today, salsa comes in countless forms: red, green, roasted, raw, fruity, smoky, spicy, or mild. It’s a staple in kitchens from California to Chiapas, served with tacos, stirred into stews, or spooned over eggs. And in the canning world, it’s a favorite because it's easy to preserve, endlessly customizable, and always a crowd-pleaser. So the next time you dip a chip or pop open a jar of homemade salsa, remember: you’re not just tasting tomatoes and chilies. You’re tasting centuries of tradition, migration, and flavor in every spoonful.</P
+                            </section>
+
+                            <section>
+                                <h3>Safety Note</h3>
+                                <ul class="style2">
+                                    <li>Always follow tested recipes for safe preservation</li>
+                                    <li>Adjust processing times for your altitude</li>
+                                    <li>Check seals before storing</li>
+                                </ul>
+                            </section>
+                        </div>
+                    </div>
+
+                    <!-- Content -->
+                    <div class="col-8 col-12-medium imp-medium">
+                        <div id="content">
+                            <article>
+                                <h2>Fresh Salsa</h2>
+                                
+                                <div class="recipe-meta">
+                                    <div class="recipe-meta-item">⏱️ Prep Time: 25 mins</div>
+                                    <div class="recipe-meta-item">🔥 Processing Time: 1 hour 35 mins</div>
+                                    <div class="recipe-meta-item">🏺 Yield: 3 pints </div>
+                                    <div class="recipe-meta-item">📅 Season: July - September</div>
+                                </div>
+
+                                <section class="recipe-section">
+                                    <h3>Equipment Needed</h3>
+                                    <ul class="ingredient-list">
+                                                                                                                       <li>1 water-bath canning pot</li>
+                                      <li>1 Cuttong board</li>
+                                      <li>1 knife</li>
+                                      <li>1 stock pot</li>
+                                      <li>1 food mill</li>
+                                      <li>3 pint jars with lids and rings</li>
+                                      <li>1 ladle</li>
+                                        <li>Jar lifter and funnel</li>
+                                      <li>1 clean cloth</li>
+                                    </ul>
+                                </section>
+
+                                <section class="recipe-section">
+                                    <h3>Ingredients</h3>
+                                    <ul class="ingredient-list">
+                                        <li> 7 lbs Roma tomatoes (meaty and low-moisture varieties work best)</li>
+                                      <li>3 tablespoons bottled lemon juice (don't sub with fresh--it's a safety thing)</li>
+                                      <li>1 tablespoon lemon zest</li>
+                                                                            <li>2 teaspoons canning salt (optional, for taste)</li>
+                                      
+                                    </ul>
+                                </section>
+
+                                <section class="recipe-section">
+                                    <h3>Instructions</h3>
+                                  <h4>🥄 Prep Steps:</h4>
+                                  <ol class="step-list">
+                                      <li><b>Wash and prep the tomatoes:</b> Rinse tomatoes thoroughly. Cut into quarters and place in a large pot over medium heat.</li>
+                                      <li><b> Precook the tomatoes:</b> Bring the pot to a boil, stirring often so nothing sticks.
+
+Simmer for 10 minutes until tomatoes soften and begin to break down.</li>
+                                    <li><b> Remove skins and seeds:</b> Run the cooked tomatoes through a food mill or sieve.
+
+Catch the smooth sauce and discard skins and seeds.</li>
+                                    <li><b> Simmer the sauce:</b> Pour the sauce back into the pot. Simmer over medium-low heat, uncovered, for 60–90 minutes until it thickens to your liking.</li>
+                                    <h4>🫙 Jar Prep and Filling:</h4>
+                                      <li><b>Get your jars ready:
+
+</b> While the sauce simmers, heat clean pint jars in simmering water (don't boil).
+
+Prep lids and rings according to manufacturer instructions.</li>
+                                    <li><b>Add lemon juice:
+
+</b> Pour 1 tablespoon of bottled lemon juice into each pint jar. This ensures proper acidity for safe canning.</li>
+                                    <li><b>Fill jars with sauce:
+
+</b> Ladle hot sauce into warm jars, leaving ½ inch of headspace.
+
+Remove air bubbles with a clean utensil. Wipe rims clean.</li>
+                                    <li><b>Seal jars:
+
+</b> Place lids on jars and screw on bands until fingertip-tight.</li>
+                                     
+                                    <h4>🔥 Water Bath Processing:</h4>
+                                    <li><b>Process your jars:</b>Place sealed jars into a boiling water canner.
+
+Make sure jars are covered by at least 1–2 inches of water.
+
+Process for 35 minutes. Once time is up, turn off the heat and let jars sit in the canner for 5 minutes.</li>
+                                    <li><b>Cool and store:</b>Lift jars out with a jar lifter and place them on a towel-lined surface.
+
+Let cool undisturbed for 12–24 hours.
+
+Check seals, label jars, and store in a cool, dark spot for up to a year.</li>
+                                    
+<b>If a jar didn’t seal: You can refrigerate and use it within a week, or reprocess using a fresh lid.</b>                                  
+                                    
+</ol>
+                                </section>
+
+                               <section class="recipe-section">
+    <h3>Notes</h3>
+    <ul class="ingredient-list">
+      <li><b>For smaller portions, </b>use half-pint jars and adjust lemon juice to ½ tablespoon per jar and keep processing time at 35 minutes.</li>
+     
+      <li><b>Sauce yield will vary</b> depending on tomato water content and reduction time.</li>
+    </ul>
+</section>
+                              <section class="recipe-section">
+    <h3>Recipe Attribution</h3>
+    <p class="attribution" style="font-style: italic; color: #666;">
+        This recipe was adapted from Katie Shaw's original recipe at 
+        <a href="https://heartscontentfarmhouse.com/smooth-tomato-sauce-canning-recipe/#recipe">Hearts Content Farmhouse</a>. 
+        Thank you for sharing this wonderful recipe!
+    </p>
+</section>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <!-- Footer -->
+    <div id="footer-wrapper">
+					<footer id="footer" class="container">
+						<div class="row">
+							<div class="col-3 col-6-medium col-12-small">
+
+								<!-- Links -->
+									<section class="widget links">
+										<h3>Government & University-Based Resources</h3>
+										<ul class="style2">
+											<li><a href="https://nchfp.uga.edu/">National Center for Home Food Preservation</a></li>
+											
+											<li><a href="https://extension.psu.edu/food-safety-and-quality/home-food-preservation-and-safety">PennState Home Food Preservation and Safety</a></li>
+											<li><a href="https://health.extension.wisc.edu/food-safety-and-preservation/">University of Wisconsin Food Safety and Preservation</a></li>
+                      <li><a href="https://nchfp.uga.edu/resources/category/usda-guide">USDA Complete Guide to Home Canning</a></li>
+											<li><a href="https://extension.wvu.edu/food-health/home-food-preservation/canning">West Virginia University Canning Resources</a></li>
+										</ul>
+									</section>
+
+							</div>
+							<div class="col-3 col-6-medium col-12-small">
+
+								<!-- Links -->
+									<section class="widget links">
+										<h3>Trusted Private Sector & Brand Resources</h3>
+										<ul class="style2">
+											<li><a href="https://www.ballmasonjars.com/canning-and-preserving-101.html">Ball Mason Jar Canning 101</a></li>
+											<li><a href="https://www.bernardin.ca/en/stepbystep.htm">Bernardin Home Canning Step-by-Step</a></li>
+                      <li><a href="https://canningamerica.com/canning-faqs">Canning Across America</a></li>
+                      <li><a href="https://www.mrswages.com/canning/">Mrs. Wages Canning 101</a></li>
+											<li><a href="https://pomonapectin.com/category/recipes/">Pomona's Universal Pectin Recipes</a></li>
+											
+										</ul>
+									</section>
+
+							</div>
+							<div class="col-3 col-6-medium col-12-small">
+
+								<!-- Links -->
+									<section class="widget links">
+										<h3>Niche & Prepper-Oriented Resources</h3>
+										<ul class="style2">
+                      <li><a href="https://uspreppers.com/beginning-canning-for-preppers/">Beginning Canning for Preppers</a></li>
+											<li><a href="https://www.pickyourown.org/allaboutcanning.htm#google_vignette">Can, Freeze, Dry, and Preserve Anything</a></li>
+											<li><a href="https://www.pickyourown.org/preppers_canning.php">Canning and Food Preservation for Preppers</a></li>
+											
+											<li><a href="https://sosfoodlab.com/canning-foods-and-dehydrating-foods-safety-dos-and-donts/">SOS Food Lab</a></li>
+											<li><a href="https://www.weloveprepping.com/blog/canning-for-preppers-essential-guide/">We Love Prepping</a></li>
+										</ul>
+									</section>
+
+							</div>
+							<div class="col-3 col-6-medium col-12-small">
+
+								<!-- Contact -->
+									<section class="widget contact last">
+										<h3>Reach Out</h3>
+										<ul>
+																						<li><a href="https://www.facebook.com/jen.simpson.33" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+											<li><a href="https://www.instagram.com/teatimewhimsies/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+																<li><a href="https://pin.it/7snH5W5ZJ" class="icon brands fa-pinterest"><span class="label">Pinterest</span></a></li>
+                      <li><a href="mailto:jenma.simpson@gmail.com" class="icon brands fa-envelope"><span class="label">Email</span></a></li>
+										</ul>
+                    
+									</section>
+
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12">
+								<div id="copyright">
+									<ul class="menu">
+										<li>&copy; Lemons & Lore. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</footer>
+				</div>
+
+			</div>
+
+  <!-- Scripts -->
+
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.dropotron.min.js"></script>
+  <script src="assets/js/browser.min.js"></script>
+  <script src="assets/js/breakpoints.min.js"></script>
+  <script src="assets/js/util.js"></script>
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
