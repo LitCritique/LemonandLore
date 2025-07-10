@@ -2894,3 +2894,24 @@ input, select, textarea {
         object-fit: cover; /* This ensures images cover the area without distortion */
     }
 </style>
+.process-gallery .image.fit {
+    max-height: 300px;
+    overflow: hidden;
+    margin-bottom: 1em;
+}
+
+.process-gallery .image.fit img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    max-height: 300px;
+}
+
+.process-gallery .row.gtr-50 {
+    display: flex;
+    gap: 1em;
+}
+
+.process-gallery .col-6 {
+    flex: 1;
+}
