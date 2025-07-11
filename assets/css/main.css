@@ -2248,62 +2248,63 @@ a {
      .recipe-thumbnail {
          height: 150px;
     }
-}
 /* Ask Jenny Form Styles */
- .ask-jenny-form {
-     background: #fff;
-     padding: 2.5em;
-    /* Increased padding */
-     border-radius: 8px;
-    /* Reduced from 120px to 8px to match site style */
-     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-     margin: 1em 0;
-    /* Added margin for better spacing */
+.ask-jenny-form {
+    background: #fff;
+    padding: 2.5em;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    margin: 2em 0;
 }
- .ask-jenny-form label {
-     display: block;
-     color: var(--heading);
-     margin-bottom: 0.75em;
-    /* Increased margin */
-     padding: 0 0.5em;
-    /* Added padding */
+
+.ask-jenny-form label {
+    display: block;
+    color: #444;
+    margin-bottom: 0.75em;
+    font-weight: 600;
 }
- .ask-jenny-form input[type="text"], .ask-jenny-form textarea {
-     width: 100%;
-     padding: 1em;
-    /* Increased padding */
-     margin-bottom: 1.5em;
-    /* Increased margin */
-     border: 1px solid var(--border-color);
-     border-radius: 4px;
-     background: #fff;
+
+.ask-jenny-form input[type="text"],
+.ask-jenny-form textarea {
+    width: 100%;
+    padding: 1em;
+    margin-bottom: 1.5em;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: #fff;
 }
- .ask-jenny-form textarea {
-     resize: vertical;
-     min-height: 150px;
-     padding: 1em;
-    /* Consistent padding */
+
+.ask-jenny-form textarea {
+    resize: vertical;
+    min-height: 150px;
 }
- .ask-jenny-form .actions {
-     margin-top: 1.5em;
-    /* Increased margin */
-     text-align: right;
-     padding: 0 0.5em;
-    /* Added padding */
+
+.ask-jenny-form .actions {
+    margin-top: 2em;
+    text-align: center;
 }
- .ask-jenny-form input[type="submit"] {
-     background: var(--primary);
-     color: white;
-     border: none;
-     padding: 0.75em 2em;
-     border-radius: 6px;
-    /* Slightly increased */
-     cursor: pointer;
-     font-weight: bold;
-     transition: background-color 0.2s ease;
+
+.ask-jenny-form .button.primary {
+    background-color: #0090c5;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 1em 2em;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
 }
- .ask-jenny-form input[type="submit"]:hover {
-     background: #ff5496;
+
+.ask-jenny-form .button.primary:hover {
+    background-color: #007aa8;
+}
+
+/* Remove conflicting styles */
+.ask-jenny-form input[type="submit"].alt {
+    background: none;
 }
 /* Sidebar Styles for Ask Jenny Page */
  #sidebar .style2 li {
@@ -2612,3 +2613,107 @@ body.is-preload *:after {
 .grid .row.gtr-50 > * {
     margin-bottom: 1em;
 }
+   /* Content Spacing Fixes */
+.container {
+    padding-left: 2em;
+    padding-right: 2em;
+    box-sizing: border-box;
+}
+
+#main-wrapper {
+    padding: 5em 0;
+}
+
+#main-wrapper .container {
+    padding: 0 3em;
+}
+
+#content {
+    padding: 0 2em;
+}
+
+.box {
+    padding: 2.5em;
+    margin: 2em 0;
+}
+
+/* Section Spacing */
+section, article {
+    padding: 0 1em;
+    margin-bottom: 3em;
+}
+
+/* Box Feature Spacing */
+.box.feature .inner {
+    padding: 3em 2em;
+}
+
+/* Banner Spacing */
+#banner {
+    padding: 4.5em 3em;
+}
+
+/* Features Wrapper Spacing */
+#features-wrapper .container {
+    padding: 0 2em;
+}
+
+/* Sidebar Spacing */
+#sidebar {
+    padding-left: 2em;
+}
+
+/* Footer Spacing */
+#footer .container {
+    padding: 0 2em;
+}
+
+/* Responsive Adjustments */
+@media screen and (max-width: 1280px) {
+    .container {
+        padding-left: 1.5em;
+        padding-right: 1.5em;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .container {
+        width: 90%;
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+    
+    #main-wrapper .container,
+    #features-wrapper .container {
+        padding: 0 1.5em;
+    }
+    
+    .box {
+        padding: 2em;
+    }
+    
+    #sidebar {
+        padding: 2em 0 0 0;
+    }
+}
+
+@media screen and (max-width: 736px) {
+    .container {
+        width: calc(100% - 2em);
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+    
+    .box {
+        padding: 1.5em;
+    }
+    
+    #banner {
+        padding: 3em 1.5em;
+    }
+    
+    section, article {
+        padding: 0 0.5em;
+    }
+}
+   
