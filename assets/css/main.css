@@ -3043,27 +3043,46 @@ height: 150px;
 }
 }
 /* Ask Jenny Form Styles */
-ask-jenny-form {
-    position: relative;
-    padding-bottom: 80px; /* Make room for the fixed button */
+.ask-jenny-form {
+    background: #fff;
+    padding: 2.5em;  /* Increased padding */
+    border-radius: 8px;  /* Reduced from 120px to 8px to match site style */
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin: 1em 0;  /* Added margin for better spacing */
+}
+
+.ask-jenny-form label {
+    display: block;
+    color: var(--heading);
+    margin-bottom: 0.75em;  /* Increased margin */
+    padding: 0 0.5em;  /* Added padding */
+}
+
+.ask-jenny-form input[type="text"],
+.ask-jenny-form textarea {
+    width: 100%;
+    padding: 1em;  /* Increased padding */
+    margin-bottom: 1.5em;  /* Increased margin */
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    background: #fff;
+}
+
+.ask-jenny-form textarea {
+    resize: vertical;
+    min-height: 150px;
+    padding: 1em;  /* Consistent padding */
 }
 
 .ask-jenny-form .actions {
-    position: sticky;
-    bottom: 0;
-    background: white;
-    padding: 1em;
-    margin: 0;
-    border-top: 1px solid #eee;
-    box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
-    z-index: 100;
+    margin-top: 1.5em;  /* Increased margin */
+    text-align: right;
+    padding: 0 0.5em;  /* Added padding */
 }
 
 .ask-jenny-form input[type="submit"] {
-    width: auto;
-    min-width: 200px;
-    background-color: #80DDE3 !important;
-    color: white !important;
+    background-color: #ff4486; /* Pink color */
+    color: white;
     border: none;
     padding: 0.75em 2em;
     border-radius: 6px;
@@ -3073,18 +3092,14 @@ ask-jenny-form {
 }
 
 .ask-jenny-form input[type="submit"]:hover {
-    background-color: #93e3e8 !important;
+    background-color: #ff5496; /* Slightly lighter pink on hover */
 }
 
-/* Ensure form content doesn't overlap with fixed button */
-.ask-jenny-form textarea {
-    margin-bottom: 2em;
-}
-
-/* Sidebar Styles for Ask Jenny Page */
-#sidebar .style2 li {
-    padding: 1em;  /* Increased padding */
-    border-bottom: 1px solid var(--border-color);
+/* Style for when button has been clicked */
+.ask-jenny-form input[type="submit"]:active,
+.ask-jenny-form input[type="submit"].used {
+    background-color: #80DDE3; /* Blue color */
+    color: white;
 }
 
 #sidebar .style2 li:last-child {
@@ -3230,8 +3245,8 @@ a.recipe-button:hover {
 
 #sidebar ul.style2 li {
     padding: 0.25em 0; 
-    margin: 0; 
-    line-height: 1.4; 
+    margin: 0; /* Remove any margin */
+    line-height: 1.4; /* Tighter line height */
 }
 
 #sidebar ul.style2 li:last-child {
