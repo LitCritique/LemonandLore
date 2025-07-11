@@ -3198,3 +3198,87 @@ a.recipe-button:hover {
     text-decoration: none;
 }
 
+/* Seasonal list adjustments */
+#content article h3 {
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+}
+
+#content article h4 {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+#content article ul {
+    margin-bottom: 1em;
+}
+
+#content article ul li {
+    margin-bottom: 0.25em;
+    line-height: 1.5;
+}
+
+#content article p {
+    margin-bottom: 1em;
+}
+
+/* Specifically target the seasonal lists */
+#content article ul:not(:last-child) {
+    margin-bottom: 1em;
+}
+
+/* Add some breathing room between seasons */
+#content article h3:not(:first-of-type) {
+    margin-top: 2em;
+}
+
+/* Make the tip paragraphs closer to their lists */
+#content article p b {
+    display: inline-block;
+    margin-bottom: 0.25em;
+}
+/* Sidebar link spacing adjustments */
+#sidebar ul.style2 {
+    margin-bottom: 1em;
+}
+
+#sidebar ul.style2 li {
+    padding: 0.25em 0; /* Reduced from default padding */
+    margin: 0; /* Remove any margin */
+    line-height: 1.4; /* Tighter line height */
+    border-bottom: 1px solid #eee; /* Optional: adds a subtle separator */
+}
+
+#sidebar ul.style2 li:last-child {
+    border-bottom: none; /* Remove border from last item */
+}
+
+#sidebar section {
+    margin-bottom: 2em; /* Space between sidebar sections */
+}
+
+#sidebar section h3 {
+    margin-bottom: 0.75em; /* Less space under section headings */
+}
+
+/* Make links more compact */
+#sidebar ul.style2 li a {
+    display: block;
+    padding: 0.25em 0;
+    transition: color 0.2s ease;
+}
+#sidebar ul.style2 li {
+    padding: 0.25em 0;
+    margin: 0;
+    line-height: 1.4;
+    border-bottom: 1px solid #eee;
+}
+
+#sidebar ul.style2 li:last-child {
+    border-bottom: none;
+}
+/* General link hover effect for all text links */
+a:hover {
+    color: #ff4486 !important; 
+    text-decoration: none; 
+    transition: color 0.2s ease;
