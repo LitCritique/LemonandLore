@@ -3029,3 +3029,70 @@ input, select, textarea {
         height: 150px;
     }
 }
+/* Ask Jenny Form Styles */
+.ask-jenny-form {
+    background: #fff;
+    padding: 2.5em;  /* Increased padding */
+    border-radius: 8px;  /* Reduced from 120px to 8px to match site style */
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin: 1em 0;  /* Added margin for better spacing */
+}
+
+.ask-jenny-form label {
+    display: block;
+    color: var(--heading);
+    margin-bottom: 0.75em;  /* Increased margin */
+    padding: 0 0.5em;  /* Added padding */
+}
+
+.ask-jenny-form input[type="text"],
+.ask-jenny-form textarea {
+    width: 100%;
+    padding: 1em;  /* Increased padding */
+    margin-bottom: 1.5em;  /* Increased margin */
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    background: #fff;
+}
+
+.ask-jenny-form textarea {
+    resize: vertical;
+    min-height: 150px;
+    padding: 1em;  /* Consistent padding */
+}
+
+.ask-jenny-form .actions {
+    margin-top: 1.5em;  /* Increased margin */
+    text-align: right;
+    padding: 0 0.5em;  /* Added padding */
+}
+
+.ask-jenny-form input[type="submit"] {
+    background: var(--primary);
+    color: white;
+    border: none;
+    padding: 0.75em 2em;
+    border-radius: 6px;  /* Slightly increased */
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.2s ease;
+}
+
+.ask-jenny-form input[type="submit"]:hover {
+    background: #ff5496;
+}
+
+/* Sidebar Styles for Ask Jenny Page */
+#sidebar .style2 li {
+    padding: 1em;  /* Increased padding */
+    border-bottom: 1px solid var(--border-color);
+}
+
+#sidebar .style2 li:last-child {
+    border-bottom: none;
+}
+
+/* Added container padding */
+.ask-jenny-form .row > * {
+    padding: 0 1em;  /* Added horizontal padding */
+}
