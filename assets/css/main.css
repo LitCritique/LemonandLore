@@ -2952,3 +2952,67 @@ input, select, textarea {
         padding-bottom: 66.67%;
     }
 }
+/* Category Page Styles */
+.recipe-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    margin-bottom: 2em;
+    overflow: hidden;
+}
+
+.recipe-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.recipe-card a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.recipe-thumbnail {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.recipe-info {
+    padding: 1.5em;
+}
+
+.recipe-info h3 {
+    margin: 0 0 0.5em 0;
+    color: var(--heading);
+}
+
+.recipe-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    margin-bottom: 1em;
+    font-size: 0.9em;
+    color: var(--text);
+}
+
+.recipe-meta span {
+    display: block;
+}
+
+/* Responsive Adjustments */
+@media screen and (max-width: 980px) {
+    .col-4.col-12-medium {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 736px) {
+    .col-4.col-12-medium {
+        width: 100%;
+    }
+    
+    .recipe-thumbnail {
+        height: 150px;
+    }
+}
