@@ -3096,3 +3096,141 @@ input, select, textarea {
 .ask-jenny-form .row > * {
     padding: 0 1em;  /* Added horizontal padding */
 }
+.recipe-buttons {
+    display: flex;
+    gap: 1em;
+    margin-bottom: 1.5em;
+}
+
+.recipe-button {
+    display: inline-block;
+    padding: 0.75em 1.5em;
+    background-color: #ff4486;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 0.9em;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+}
+
+.recipe-button[disabled] {
+    opacity: 0.9;
+    cursor: default;
+}
+
+.recipe-button:not([disabled]):hover {
+    background-color: #ff5496;
+    text-decoration: none;
+}
+
+/* Ensure the link button matches the regular button */
+a.recipe-button {
+    color: white;
+    text-decoration: none;
+}
+
+a.recipe-button:hover {
+    color: white;
+    text-decoration: none;
+}
+#nav ul li.current a {
+    background: #444;
+    color: #fff;
+}
+
+#nav ul li.current:hover a {
+    background: #444;
+    color: #fff;
+}
+
+#nav ul li:hover a, 
+#nav ul li:hover span {
+    background: #fff;
+}
+
+#nav ul li.active a, 
+#nav ul li.active span {
+    background: #fff;
+}
+
+#nav ul li > ul {
+    display: none;
+    position: absolute;
+    background: #fff;
+    min-width: 15em;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border-radius: 6px;
+    padding: 0.5em 0;
+}
+
+#nav ul li:hover > ul {
+    display: block;
+}
+
+#nav ul li > ul > li > ul {
+    left: 100%;
+    top: 0;
+}
+
+#nav ul li > ul li {
+    position: relative;
+    padding: 0;
+    width: 100%;
+}
+
+#nav ul li > ul li a {
+    padding: 0.5em 1.5em;
+    display: block;
+    width: 100%;
+    color: #696969;
+}
+
+#nav ul li > ul li:hover > a {
+    background: #f4f4f4;
+}
+
+#nav ul li.current > a {
+    background: #444;
+    color: #fff;
+}
+/* Adjust nav dropdown spacing */
+#nav ul li > ul {
+    margin-top: calc(-0.75em + 1px);
+    padding: 0.25em 0; /* Reduced padding */
+    min-width: 12em; /* Slightly reduced width */
+}
+
+#nav ul li > ul li {
+    line-height: 2em; /* Reduced line height */
+    padding: 0;
+    white-space: nowrap; /* Keeps items on one line */
+}
+
+#nav ul li > ul li a {
+    padding: 0.25em 1em; /* Reduced padding */
+    line-height: 1.5em; /* Reduced line height */
+    font-size: 0.9em; /* Slightly smaller font */
+}
+
+/* Position nested dropdowns */
+#nav ul li > ul > li > ul {
+    left: calc(100% + 1px);
+    top: -0.25em; /* Aligns with parent */
+    margin-top: 0;
+}
+
+/* Improve hover state spacing */
+#nav ul li > ul li:hover > a {
+    background: #f4f4f4;
+    padding: 0.25em 1em;
+}
+
+/* Ensure text doesn't wrap */
+#nav ul li > ul li a {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
