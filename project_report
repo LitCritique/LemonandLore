@@ -1,1 +1,208 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<html lang="en-us">
+<head>
+    <title>Lemon & Lore</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body class="is-preload homepage">
+    <div id="page-wrapper">
+        <!-- Header -->
+        <div id="header-wrapper">
+            <header id="header" class="container">
+                <!-- Logo -->
+                <div id="logo">
+                    <h1><a href="index.html">Lemon & Lore</a></h1>
+                </div>
+                <!-- Nav -->
+                <nav id="nav">
+                    <ul>
+                        <li class="current"><a href="index.html">Welcome</a></li>
+                        <li>
+                            <a href="recipelog.html">Recipe Log</a>
+                            <ul>
+                                <li><a href="recipe_index.html">Recipe Index</a></li>
+                                <li>
+                                    <a href="#">By Category</a>
+                                    <ul>
+                                        <li><a href="fruits_jams.html">Fruits & Jams</a></li>
+                                        <li><a href="vegetables.html">Vegetables</a></li>
+                                        <li><a href="pickled.html">Pickled</a></li>
+                                        <li><a href="sauces.html">Sauces</a></li>
+                                        <li><a href="drinks.html">Drinks</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="seasonal-guide.html">Seasonal Guide</a></li>
+                        <li><a href="tips-and-tools.html">Tips and Tools</a></li>
+                        <li>
+                            <a href="about.html">About</a>
+                            <ul>
+                                <li><a href="askjenny.html">Ask Jenny</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+        <!-- Banner -->
+
+        <!-- Main -->
+        <section id="main" class="wrapper style1">
+            <div class="container">
+                <header class="major">
+                    <h2>Final Project Report</h2>
+                </header>
+
+                <section>
+                    <h3>I. Design & Rhetorical Strategies</h3>
+                    <p><strong>Purpose</strong><br>
+                    My goal for this site was to create a cozy, welcoming, and, most importantly, approachable online location where beginners could learn about canning and preserving without feeling overwhelmed. I wanted something that felt like getting advice from a friend or neighbor, so I tried for simple, warm, and helpful instead of more technical and simply informational. I tried to channel how I had learned from others, as well as how much I relied on others' websites and information, to build my knowledge  base, and I wanted to do the exact opposite of gatekeep this information.</p>
+
+                    <p><strong>Audience</strong><br>
+                    I really wanted this site to be those whoa re just getting started with canning.  People who want to preserve food at home but aren’t sure where to begin. I know how daunting a new hobby can be, and I also know that without the right resources, this particular hobby could end up making people really sick. So, I tried to focus on making the content clear and encouraging, with the idea that anyone could follow along, but that safety is an absolute <em>must</em> when it comes to preserving food.</p>
+
+                    <p><strong>Navigation</strong><br>
+                    The navigation is meant to be easy to follow and self-explanatory. There’s a rather simple top menu with dropdowns so visitors can quickly get to the recipes and information they need. I also know it's nice to have that "jump to recipe" button when you're in a hurry on a recipe page, so I made sure that was on each recipe. I wanted it to feel organized without being too busy, especially since there are a lot of pages and so much information to sift through.</p>
+
+                    <p><strong>Layout & Visual Design</strong><br>
+                    I used a template as a starting point and customized it to match the feel I was going for. I'm more of a writer than a developer, so I really wanted to focus on the content, and having a template allowed me to make something that, I think, is simple, but clean and easy to use. My mind kept going back to the 1950s and 1960s when canning was more of a necessity, so I tried to incorporate some of the vintage kitchen colors into my design while also trying to keep it easy on the eyes. I wanted to make sure the entire site was readable, but not boring, so I added pictures and designs that I created to help add color and interest. The design is consistent from page to page so people don’t get lost.</p>
+
+                    <p><strong>Content Choices</strong><br>
+                    I made sure that every recipe follows a similar format to keep things familiar and predictable. I also kept the information on recipes I've tried the same, but added some additional information to offer advice and/or tips. My goal was to make sure that visitors know what to expect from my recipes and it helps keep the site from just feeling like a list of random recipes.</p>
+
+                    <p><strong>Tone</strong><br>
+                    I aimed for a casual, helpful tone. I wanted it to feel like you’re learning from someone who’s done this before but still remembers what it’s like to be new. NI didn't want anything too technical or formal, just friendly and clear. I used a lot of my classroom teaching tone in the site to make sure instructions were clear, and the steps were broken down into manageable chunks, but I want people to feel empowered and excited to try canning, not overwhelmed or intimidated.</p>
+
+                    <h3>II. Activities & Reflection</h3>
+                    <p><strong>What I Did</strong><br>
+                    <ul> <li>I started with the homepage and moved from there. I already knew I wanted a tips and tools and a seasonal guide to help people get started, but at first I had no idea what the recipe section would look like. I decided to follow one of the video teacher's advice and sketch it out ahead of time. </li>
+                      <li>At first, I had named the page something punny: "Yes we can!"" But, I hated it. It didn't have any zing or memory to it, so I kept it as a placeholder until something better came along. The name "Lemon and Lore" was born because I love alliteration, and I knew I wanted something to do with the lore of the ingredients I'd be showcasing. So, I needed another L word that would make sense but also give it some character. A few years ago, a student told me "You look like someone who likes lemons." While I'm still not really sure what that means, it has stuck around as an inside joke between my husband and me; now, I frequently receive lemon-decorated and lemon-colored items as gifts and trinkets from friends and family. It seemed natural that Lemon and Lore would work together. And, an idea was born.</li>
+                     <li> I asked several friends and family members what they would expect from a site like this. I got some great advice like, "make sure you have it sectioned by the type of ingredients," and "don't forget to explain the difference between pressure cooking and hot water baths." Then, my Sister-in-Law said, "I'd want to know about you; who am I taking this advice from and why should I trust you?" So I, reluctantly, added the About Me section. My daughter, 11, suggested the "Ask Jenny" section. As she said, "if your students have a question they ask you, so you need one here too," so I have a place for questions, too. Then it was time for the recipes.
+                      <li>I found a <a href="https://www.budgetbytes.com/"> website </a> that had a recipe index I liked and borrowed some of the html from their developer elements to help me lay out my recipe index. Then, I gathered the recipes I've tried and the ones that I'm planning on trying the rest of this year. I knew I wanted to make the recipe accessible without the meme-worthy jokes of "why do I have to read your life story before I can get the recipe" column, but I also wanted to acknowledge the lore behind the recipe and/or main ingredient. I decided on a two-column page for this so I could have the lore off to the side, but the recipe be the focus. I kept the template for the sidebar, but I adapted some html from <a href="https://www.seriouseats.com/iowa-steak-de-burgo-recipe-11761859a"> Serious Eats </a> to help me get the layout for the recipe itself. I then rewrote and organized content around each recipe to meet the needs of the recipe and the webpage. So much research went into the lore, but a lot of it I already had since I'd been doing this research for fun over the past few years (I was planning to write a book., but the website seems like a better approach anyway). Once I had the layout and coding for this, it was rinse and repeat for <em>so many</em> pages.</li>
+                    <li> Up to this point, I pretty much ignored the CSS except for a few elements I had needed to make the page navigations and layouts work. At this point, I started thinking about color schemes and how I wanted the photos to look and what fonts I wanted. I customized the template’s CSS for visual style and mobile support based on what I had been working on (again) from practice site four. At that point, I found I had over 3,000 lines of CSS coding! For three days, I combed through the CSS on Codepen.io for every single page, trying to find the CSS in the template that wasn't needed without breaking the new coding I had added.  In hind-sight, I would do this differently and start with html and CSS side-by-sided instead of waiting until the end to clean up my mess.</li>
+                    <li> I then tested links, navigation, and layout in multiple browsers and screen sizes. I sent my website to friends and family and told them to try to break it. My exact words were "chaos goblin this so you can find the bugs and parts that don't work right." And then I fixed what they found and what they said wasn't user-friendly. </li>                    </p>
+
+                    <p><strong>What Was Tricky</strong><br>
+                    <li> Making all the pages looked consistent and all the links went where they were supposed to was tricky. I had trouble with generalized modifications on practice site four, and I couldn't get them to work here either, so the Footer is copied and pasted on every page. The nesting of navigation links took me a while to figure out with the help of some of the resources my classmates posted in the forum. I finally got it!</li>
+                    <li> I knew I would be more comfortable adjusting a template than creating a page from scratch, but I won't lie: adjusting the template’s layout so it fit my structure without breaking anything was quite time-consuming. Once I got through the layout and initial set-up, I spent 4 days working from 8am-10pm alsmot non-stop to build it the way I wanted it, tweaking it so it did as close to exactly what I wanted as possible, and then figuring out how to make the css match each page's needs. I can definitely understand why this profession is paid what they are paid because they earn every cent of it!</li>
+                    <li>A few CSS quirks showed up in different browsers and needed fixing. For example, some of the colors didn't look right on larger screens, while some of the columns rendered a bit funky in small screens. This was a few hours in itself, and there were several times I had to walk away becuase of how annoyed I was with what was happening.  Thank goodness for Codepen.io or I never would have survived all the breaking and rewriting steps I had to complete.</li>. </p>
+
+                    <p><strong>What I Learned</strong><br>
+                    <li> Well, for one, I’m way more comfortable working with HTML and CSS now! I know my coding is clunky and, as some would say, over coded, but I feel so much more confident looking at an html code sheet now. I feel confident I can code moderately complex (not super by any means) websites and modifications if necessary, and, while I'm not sure how it would work, I feel like I could keep this website going with a little more time and practice. I definitely know I can tweak things in Canvas now! ☺️ </li>
+                    <li> I learned how to adapt a template without breaking it, and, while not exactly ideal, I learned how to change it completely if I couldn't get it to do what I wanted. It helped me realize that there is nothing wrong with a template as a starting point because, even though the skeleton is set, I still had to put all the muscle and meat into the code to make it mean anything. This affects my thinking as a teacher as I feel much more confident that giving my students templates and outlines <em>is</em> beneficial and is <em>not</em> babying them.</li>
+                    <li> I got better at thinking through design choices. I realize now that it's not just how it looks, but how people use it that matters when you're creating content for public use. This really gave me time to reflect on the rights to accessibility and the legality of ensuring those rights are met. </li>
+                    <li> I definitely improved my attention to detail with debugging and layout tweaks. I have never looked at semi-colons, colons, and slashes so intently, and I have <strong>never</strong> been so angry at a missing character before in my life than when I've wasted an hour or more hunting down the culprit that's messing up my code.</li></ul></p>
+
+                    <p><strong>What’s Next</strong><br>
+                    If I had more time, I’d love to: <ul>
+          <li> Add a search bar for the recipe list</li>
+                    <li>Let users favorite or save recipes with a bit of JavaScript. The template came with JavaScript already, but I did not touch that at all because I had no clue what I was looking at. So, eventually, learning a little bit of JavaScript to be able to add those "pretty" functions to the site would be fun. </li>
+                    <li> I would really like to add a print button to the recipe that would help lay it out in a printer-friendly mode so users could print directly from the recipe page without having to do any formatting themselves.  I saw this on <a href="https://www.seriouseats.com/iowa-steak-de-burgo-recipe-11761859a"> Serious Eats </a>and I really wanted to try it, but I ran out of time.</li>
+          <li> I think I would maybe like to open it up to submissions from other home canners. It would be nice to have a section called "submitted from our viewers" to make it more interactive. </li>
+                    <li> I would like to also spend time improving accessibility with keyboard navigation and screen reader support. Now that I've seen how important those features are, I would like to spend more time making sure it works for all my viewers. </li></p>
+
+                    <p><strong>Live Site</strong>: <a href="https://litcritique.github.io/LemonandLore/index.html">https://litcritique.github.io/LemonandLore/index.html</a><br>
+                    <strong>Written by</strong>: Jenny Simpson </p>
+                </section>
+            </div>
+        </section>
+
+ <!-- Footer -->
+    <div id="footer-wrapper">
+      <footer id="footer" class="container">
+        <div class="row">
+          <div class="col-3 col-6-medium col-12-small">
+
+            <!-- Links -->
+            <section class="widget links">
+              <h3>Government & University-Based Resources</h3>
+              <ul class="style2">
+                <li><a href="https://nchfp.uga.edu/">National Center for Home Food Preservation</a></li>
+
+                <li><a href="https://extension.psu.edu/food-safety-and-quality/home-food-preservation-and-safety">PennState Home Food Preservation and Safety</a></li>
+                <li><a href="https://health.extension.wisc.edu/food-safety-and-preservation/">University of Wisconsin Food Safety and Preservation</a></li>
+                <li><a href="https://nchfp.uga.edu/resources/category/usda-guide">USDA Complete Guide to Home Canning</a></li>
+                <li><a href="https://extension.wvu.edu/food-health/home-food-preservation/canning">West Virginia University Canning Resources</a></li>
+              </ul>
+            </section>
+
+          </div>
+          <div class="col-3 col-6-medium col-12-small">
+
+            <!-- Links -->
+            <section class="widget links">
+              <h3>Trusted Private Sector & Brand Resources</h3>
+              <ul class="style2">
+                <li><a href="https://www.ballmasonjars.com/canning-and-preserving-101.html">Ball Mason Jar Canning 101</a></li>
+                <li><a href="https://www.bernardin.ca/en/stepbystep.htm">Bernardin Home Canning Step-by-Step</a></li>
+                <li><a href="https://canningamerica.com/canning-faqs">Canning Across America</a></li>
+                <li><a href="https://www.mrswages.com/canning/">Mrs. Wages Canning 101</a></li>
+                <li><a href="https://pomonapectin.com/category/recipes/">Pomona's Universal Pectin Recipes</a></li>
+
+              </ul>
+            </section>
+
+          </div>
+          <div class="col-3 col-6-medium col-12-small">
+
+            <!-- Links -->
+            <section class="widget links">
+              <h3>Niche & Prepper-Oriented Resources</h3>
+              <ul class="style2">
+                <li><a href="https://uspreppers.com/beginning-canning-for-preppers/">Beginning Canning for Preppers</a></li>
+                <li><a href="https://www.pickyourown.org/allaboutcanning.htm#google_vignette">Can, Freeze, Dry, and Preserve Anything</a></li>
+                <li><a href="https://www.pickyourown.org/preppers_canning.php">Canning and Food Preservation for Preppers</a></li>
+
+                <li><a href="https://sosfoodlab.com/canning-foods-and-dehydrating-foods-safety-dos-and-donts/">SOS Food Lab</a></li>
+                <li><a href="https://www.weloveprepping.com/blog/canning-for-preppers-essential-guide/">We Love Prepping</a></li>
+              </ul>
+            </section>
+
+          </div>
+          <div class="col-3 col-6-medium col-12-small">
+
+            <!-- Contact -->
+            <section class="widget contact last">
+              <h3>Reach Out</h3>
+              <ul>
+                <li><a href="https://www.facebook.com/jen.simpson.33" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+                <li><a href="https://www.instagram.com/teatimewhimsies/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="https://pin.it/7snH5W5ZJ" class="icon brands fa-pinterest"><span class="label">Pinterest</span></a></li>
+               
+              </ul>
+
+            </section>
+
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <div id="copyright">
+              <ul class="menu">
+                <li>&copy; Lemons & Lore. All rights reserved</li>
+                <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <!-- Scripts -->
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </div>
+    
+  </body>
+
+</html>
